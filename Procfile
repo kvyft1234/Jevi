@@ -1,1 +1,1 @@
-web: node ./app.js kvytry https://kvytry.herokuapp.com
+web: node ./app.js kvytry https://kvyftjevi.herokuapp.com
